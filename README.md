@@ -3,6 +3,10 @@ KingSh*t's Punchlines is an interactive web application that serves as a dark-hu
 
 The AI persona, "KingSh*t," is designed to be arrogant and unapologetically grim, ensuring every interaction is a foray into the darker side of comedy.
 
+## 🎬 Demo
+<img width="1416" height="772" alt="Screenshot 2025-09-01 at 10 24 14 PM" src="https://github.com/user-attachments/assets/d128984b-851a-454b-b892-b50e3722112a" />
+
+
 ## ✨ Features
 Interactive Chat Interface: A simple and clean UI built with Streamlit.
 
