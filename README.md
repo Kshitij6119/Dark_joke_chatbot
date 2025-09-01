@@ -3,7 +3,7 @@ KingSh*t's Punchlines is an interactive web application that serves as a dark-hu
 
 The AI persona, "KingSh*t," is designed to be arrogant and unapologetically grim, ensuring every interaction is a foray into the darker side of comedy.
 
-#✨ Features
+# ✨ Features
 Interactive Chat Interface: A simple and clean UI built with Streamlit.
 
 AI-Powered Persona: Features "KingSh*t," a cynical AI comedian with a dark sense of humor.
@@ -16,7 +16,7 @@ Conversation Reset: Easily start a new conversation with a single click.
 
 Powered by Google Gemini: Utilizes the gemini-1.5-flash model for fast and creative responses.
 
-#🛠️ Tech Stack
+# 🛠️ Tech Stack
 Language: Python
 
 Framework: Streamlit
@@ -27,7 +27,7 @@ LLM: Google Gemini API
 
 Configuration: python-dotenv
 
-#🚀 Getting Started
+# 🚀 Getting Started
 Follow these instructions to get a copy of the project up and running on your local machine.
 
 Prerequisites
